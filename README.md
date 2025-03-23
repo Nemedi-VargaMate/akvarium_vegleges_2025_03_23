@@ -1,7 +1,9 @@
 # Ez a weboldal a most legnépszerűbb akváriumi 🐟kezdő díszhalakat halakat mutatja be.
 ####A weboldalon felsorolt adatok  2025 elején kerültek felvitelre, a változás jogát fenn tartom.
 A weboldalat ezen az oldalon tudod megtekinteni : °:•.🐠*.•🪸.•:°  ezen a linken : https://nemedi-vargamate.github.io/akvarium_vegleges_2025_03_23/ vagy [ide kattintva](https://nemedi-vargamate.github.io/akvarium_vegleges_2025_03_23/)
-
+```html
+<p><a href="0_index.html">főoldal</a></p>
+```
 ## A HTML szerkezet
 ### A főoldalé:
 ```html
