@@ -1,0 +1,51 @@
+table {
+    border: 5px solid;
+    background-color: rgb(0, 0, 0);
+    /* háttérszín */
+    font-family: 'Courier New', Courier, monospace;
+    /* betűstílus */
+    font-size: 40px;
+    /* betűméret */
+    font-weight: bold;
+    width: 90%;
+  }
+img{
+    height:auto;
+    /*kép méret*/
+}
+thead{
+    background-color:rgb(96, 156, 206) ;
+    text-align: center;
+}
+tbody{
+    background-color:rgb(96, 156, 206); 
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: darkblue;
+    text-align: center;
+    font-size: 40px;
+    height: auto;
+    font-weight: bolder;
+    
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    background-color: rgb(96, 156, 206);
+    font-size: 30px;
+    height: auto;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 25px;
+    font-weight: lighter;
+    background-color: aquamarine;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
