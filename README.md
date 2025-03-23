@@ -4,6 +4,7 @@ A weboldalat ezen az oldalon tudod megtekinteni : °:•.🐠*.•🪸.•:°  e
 ```html
 <p><a href="0_index.html">főoldal</a></p>
 ```
+[főoldal](0_index.html)
 ## A HTML szerkezet
 ### A főoldalé:
 ```html
